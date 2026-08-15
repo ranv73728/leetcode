@@ -2,6 +2,7 @@ class Solution {
 public:
     bool checkIfPangram(string sentence) {
         vector<int> freq(26,0);
+        // to count frequency of each chaaracter 
         for(char ch : sentence){
             freq[ch-'a']++;
         }
@@ -11,7 +12,7 @@ public:
             }
             
         }
-        return true;
+        return true ;
         
     }
 };
