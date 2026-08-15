@@ -31,11 +31,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ranv73728/leetcode/tree/master/0012-integer-to-roman) |
 | [0443-string-compression](https://github.com/ranv73728/leetcode/tree/master/0443-string-compression) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ranv73728/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ranv73728/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ranv73728/leetcode/tree/master/0012-integer-to-roman) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ranv73728/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/ranv73728/leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
