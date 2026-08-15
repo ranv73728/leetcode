@@ -31,4 +31,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/ranv73728/leetcode/tree/master/0443-string-compression) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ranv73728/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Hash Table
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ranv73728/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
