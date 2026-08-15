@@ -18,7 +18,7 @@ public:
             //converting the count into string so if count >10 we can assign 1 and 0 seperately
             if(count>1){
                 string s=to_string(count);
-                for(char ch : s){
+                for(char &ch : s){
                     chars[index]=ch;
                     index++;
                 }
