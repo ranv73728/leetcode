@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ranv73728/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/ranv73728/leetcode/tree/master/0229-majority-element-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/ranv73728/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ranv73728/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Binary Search
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ranv73728/leetcode/tree/master/0012-integer-to-roman) |
+| [0229-majority-element-ii](https://github.com/ranv73728/leetcode/tree/master/0229-majority-element-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ranv73728/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
@@ -58,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1544-make-the-string-great](https://github.com/ranv73728/leetcode/tree/master/1544-make-the-string-great) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ranv73728/leetcode/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ranv73728/leetcode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ranv73728/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
