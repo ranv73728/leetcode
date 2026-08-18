@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ranv73728/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ranv73728/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/ranv73728/leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ranv73728/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ranv73728/leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ranv73728/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/ranv73728/leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ranv73728/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ranv73728/leetcode/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/ranv73728/leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/ranv73728/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
