@@ -11,6 +11,7 @@ public:
 
             if(mp.size()<=2){
                 count=max(count,r-l+1);
+                
             }
             else{
                 mp[fruits[l]]--;
@@ -20,7 +21,8 @@ public:
                 l++;
                
             }
-            r++;
+            r=r+1;
+            
 
                 
             
@@ -31,4 +33,4 @@ public:
         return count;
         
     }
-};
+}; 
