@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ranv73728/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ranv73728/leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/ranv73728/leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/ranv73728/leetcode/tree/master/0189-rotate-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ranv73728/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ranv73728/leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/ranv73728/leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/ranv73728/leetcode/tree/master/0189-rotate-array) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ranv73728/leetcode/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ranv73728/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
