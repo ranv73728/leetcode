@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ranv73728/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ranv73728/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ranv73728/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2007-find-original-array-from-doubled-array](https://github.com/ranv73728/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ranv73728/leetcode/tree/master/0229-majority-element-ii) |
 | [0904-fruit-into-baskets](https://github.com/ranv73728/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ranv73728/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2007-find-original-array-from-doubled-array](https://github.com/ranv73728/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/ranv73728/leetcode/tree/master/0016-3sum-closest) |
 | [0229-majority-element-ii](https://github.com/ranv73728/leetcode/tree/master/0229-majority-element-ii) |
+| [2007-find-original-array-from-doubled-array](https://github.com/ranv73728/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 ## Counting
 |  |
 | ------- |
@@ -125,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ranv73728/leetcode/tree/master/0011-container-with-most-water) |
+| [2007-find-original-array-from-doubled-array](https://github.com/ranv73728/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 <!---LeetCode Topics End-->
