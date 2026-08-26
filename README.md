@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ranv73728/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/ranv73728/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ranv73728/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ranv73728/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ranv73728/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ranv73728/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ranv73728/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ranv73728/leetcode/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/ranv73728/leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/ranv73728/leetcode/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ranv73728/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
 |  |
 | ------- |
