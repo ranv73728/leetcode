@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ranv73728/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ranv73728/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/ranv73728/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ranv73728/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/ranv73728/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ranv73728/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ranv73728/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ranv73728/leetcode/tree/master/0012-integer-to-roman) |
 | [0229-majority-element-ii](https://github.com/ranv73728/leetcode/tree/master/0229-majority-element-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ranv73728/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/ranv73728/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ranv73728/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ranv73728/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/ranv73728/leetcode/tree/master/0016-3sum-closest) |
 | [0229-majority-element-ii](https://github.com/ranv73728/leetcode/tree/master/0229-majority-element-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ranv73728/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ranv73728/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 ## Counting
 |  |
