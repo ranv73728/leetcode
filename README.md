@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ranv73728/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/ranv73728/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ranv73728/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ranv73728/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ranv73728/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ranv73728/leetcode/tree/master/0011-container-with-most-water) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ranv73728/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ranv73728/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Backtracking
 |  |
 | ------- |
