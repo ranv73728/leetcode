@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ranv73728/leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/ranv73728/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ranv73728/leetcode/tree/master/0046-permutations) |
+| [0137-single-number-ii](https://github.com/ranv73728/leetcode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/ranv73728/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ranv73728/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/ranv73728/leetcode/tree/master/0229-majority-element-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/ranv73728/leetcode/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ranv73728/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
