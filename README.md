@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ranv73728/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/ranv73728/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/ranv73728/leetcode/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/ranv73728/leetcode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/ranv73728/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ranv73728/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ranv73728/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ranv73728/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ranv73728/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/ranv73728/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/ranv73728/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ranv73728/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/ranv73728/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
