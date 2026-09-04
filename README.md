@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ranv73728/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/ranv73728/leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/ranv73728/leetcode/tree/master/0724-find-pivot-index) |
+| [0896-monotonic-array](https://github.com/ranv73728/leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/ranv73728/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ranv73728/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ranv73728/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
