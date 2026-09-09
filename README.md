@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/ranv73728/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2413-smallest-even-multiple](https://github.com/ranv73728/leetcode/tree/master/2413-smallest-even-multiple) |
 | [3870-count-commas-in-range](https://github.com/ranv73728/leetcode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/ranv73728/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ranv73728/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
