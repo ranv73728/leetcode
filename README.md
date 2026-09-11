@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ranv73728/leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ranv73728/leetcode/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/ranv73728/leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/ranv73728/leetcode/tree/master/0412-fizz-buzz) |
@@ -203,5 +204,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ranv73728/leetcode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ranv73728/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ranv73728/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
