@@ -1,14 +1,16 @@
-
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
-        vector<int> result;
         int n = nums.size();
+        vector<int> freq(n + 1, 0);
+        vector<int> result;
 
-        sort(nums.begin(), nums.end());
+        for(int i = 0; i < n; i++) {
+            freq[nums[i]]++;
+        }
 
         for(int i = 1; i <= n; i++) {
-            if(!binary_search(nums.begin(), nums.end(), i)) {
+            if(freq[i] == 0) {
                 result.push_back(i);
             }
         }
