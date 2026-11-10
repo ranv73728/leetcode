@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ranv73728/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ranv73728/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ranv73728/leetcode/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/ranv73728/leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/ranv73728/leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ranv73728/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/ranv73728/leetcode/tree/master/0189-rotate-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/ranv73728/leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/ranv73728/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ranv73728/leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ranv73728/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ranv73728/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ranv73728/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ranv73728/leetcode/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/ranv73728/leetcode/tree/master/0090-subsets-ii) |
 ## Number Theory
 |  |
 | ------- |
