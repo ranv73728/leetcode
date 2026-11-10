@@ -1,41 +1,35 @@
+
 class Solution {
-public:
-    vector<vector<int>> ans;
+private:
+    void recurPermute(vector<int>& ds, vector<int>& nums,
+                      vector<vector<int>>& ans, vector<int>& freq) {
 
-    void solve(vector<int>& nums, vector<int>& temp,
-               vector<bool>& used) {
-
-        // Base case
-        if (temp.size() == nums.size()) {
-            ans.push_back(temp);
+        if(ds.size() == nums.size()) {
+            ans.push_back(ds);
             return;
         }
 
-        for (int i = 0; i < nums.size(); i++) {
+        for(int i = 0; i < nums.size(); i++) {
+            if(!freq[i]) {
+                ds.push_back(nums[i]);
+                freq[i] = 1;
 
-            // Skip if already used
-            if (used[i] == true) {
-                continue;
+                recurPermute(ds, nums, ans, freq);
+
+                freq[i] = 0;
+                ds.pop_back();
             }
-
-            // Choose
-            temp.push_back(nums[i]);
-            used[i] = true;
-
-            // Explore
-            solve(nums, temp, used);
-
-            // Backtrack
-            temp.pop_back();
-            used[i] = false;
         }
     }
 
+public:
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<int> temp;
-        vector<bool> used(nums.size(), false);
 
-        solve(nums, temp, used);
+        vector<vector<int>> ans;
+        vector<int> ds;
+        vector<int> freq(nums.size(), 0);
+
+        recurPermute(ds, nums, ans, freq);
 
         return ans;
     }
