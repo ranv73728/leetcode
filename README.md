@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/ranv73728/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ranv73728/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ranv73728/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2256-minimum-average-difference](https://github.com/ranv73728/leetcode/tree/master/2256-minimum-average-difference) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/ranv73728/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ranv73728/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ranv73728/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ranv73728/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ranv73728/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/ranv73728/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2256-minimum-average-difference](https://github.com/ranv73728/leetcode/tree/master/2256-minimum-average-difference) |
 ## Two Pointers
 |  |
 | ------- |
